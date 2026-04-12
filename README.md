@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=0A66C2&center=true&vCenter=true&width=500&lines=Artificial+Intelligence;Flutter+Cross-Platform+Apps;Computer+Vision+%7C+NLP;Building+Real-World+AI+Solutions" />
 </p><p align="center">
   <a href="https://github.com/Dev-MrV">
-    <img src="https://komarev.com/ghpvc/?username=Dev-MrV&label=Profile+Views&color=0A66C2&style=flat" />
+     🚀 Focused on building real-world AI solutions with impact
   </a>
 </p>---
 
@@ -55,18 +55,25 @@ A real-time coding environment supporting multi-user collaboration with intellig
   <img src="https://skillicons.dev/icons?i=flutter,dart,python,nodejs,express,mongodb,react,firebase,git&perline=5" />
 </p>---
 
-📊 Performance
+## 📊 Performance
+## 📊 Performance
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Dev-MrV&show_icons=true&theme=default" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-MrV&layout=compact&theme=default" />
-</p>---
-
-📈 Activity
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Dev-MrV&show_icons=true&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-MrV&layout=compact&hide_border=true" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-MrV&theme=minimal" />
-</p>---
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-MrV&hide_border=true" />
+</p>
+
+---
+
+## 📈 Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-MrV&theme=github-compact" />
+</p>
 
 🎯 Current Direction
 
