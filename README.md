@@ -3,8 +3,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=0A66C2&center=true&vCenter=true&width=500&lines=Artificial+Intelligence;Flutter+Cross-Platform+Apps;Computer+Vision+%7C+NLP;Building+Real-World+AI+Solutions" />
 </p><p align="center">
   <a href="https://github.com/Dev-MrV">
-     🚀 Focused on building real-world AI solutions with impact
   </a>
+  🚀 Focused on building real-world AI solutions with impact
 </p>---
 
 🧠 Profile
@@ -55,7 +55,6 @@ A real-time coding environment supporting multi-user collaboration with intellig
   <img src="https://skillicons.dev/icons?i=flutter,dart,python,nodejs,express,mongodb,react,firebase,git&perline=5" />
 </p>---
 
-## 📊 Performance
 ## 📊 Performance
 
 <p align="center">
