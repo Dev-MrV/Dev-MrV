@@ -58,9 +58,8 @@ A real-time coding environment supporting multi-user collaboration with intellig
 ## 📊 Performance
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Dev-MrV&show_icons=true&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-MrV&layout=compact&hide_border=true" />
-</p>
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dev-MrV&show_icons=true&hide_border=true" />
+<img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dev-MrV&layout=compact&hide_border=true" />
 
 <p align="center">
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-MrV&hide_border=true" />
