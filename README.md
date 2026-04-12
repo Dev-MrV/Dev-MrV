@@ -82,7 +82,7 @@ A real-time coding environment supporting multi-user collaboration with intellig
   <a href="https://github.com/Dev-MrV">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINK">
+  <a href="https://www.linkedin.com/in/mrinal-v-8046963b7?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>---
