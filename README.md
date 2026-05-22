@@ -82,13 +82,30 @@ My work combines Machine Learning, Computer Vision, and modern mobile developmen
 ---
 
 ### 💻 Collaborative Code Editor
+[![Repo](https://img.shields.io/badge/GitHub-Collaborative__Code__Editor-181717?style=for-the-badge&logo=github)](https://github.com/Dev-MrV/Collaborative_Code_Editor)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 
+> Real-time collaborative code editor built using React, Node.js, and Socket.io, enabling multiple users to code together simultaneously with synchronized editing and live collaboration features.
+
 > Real-time coding environment supporting multi-user collaboration with intelligent error insights.
+
+---
+
+### 📖 Habit Tracker App
+[![Repo](https://img.shields.io/badge/GitHub-habit__tracker-181717?style=for-the-badge&logo=github)](https://github.com/Dev-MrV/habit_tracker)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FFB300?style=flat-square&logo=databricks&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google_Drive_Backup-4285F4?style=flat-square&logo=google-drive&logoColor=white)
+![Notifications](https://img.shields.io/badge/Notifications-FF7043?style=flat-square&logo=firebase&logoColor=white)
+![Offline First](https://img.shields.io/badge/Offline_First-4CAF50?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+
+> A modern offline-first Habit Tracking mobile application built with Flutter that helps users build consistency, monitor progress, manage daily routines, and securely back up data to Google Drive.
 
 ---
 
